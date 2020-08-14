@@ -44,7 +44,7 @@ O Proffy é uma plataforma de estudos online, aonde professores podem oferecer o
 - yarn start (npm tbm funciona).
 
 ##### WEB
-- Entre na pasta "web" e rode yarn install (pode usar npm install de acordo com a sua configuração).
+- Rode yarn install (pode usar npm install de acordo com a sua configuração).
 - Na pasta src/services aquivo api.ts colocar seu IP em baseURL para funcionar.
 - yarn start (npm tbm funciona).
 
